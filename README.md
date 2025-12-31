@@ -35,11 +35,6 @@
 
 # My GitHub Statistics
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" alt="HasanLabib's Stats" />
-    </td>
-  </tr>
-</table>
+
+[![HasanLabib's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanLabib&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
