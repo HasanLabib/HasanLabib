@@ -38,10 +38,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="github-readme-stats.vercel.app" alt="HasanLabib's Stats" />
-    </td>
-    <td align="center">
-      <img src="github-readme-stats.vercel.app" alt="Top Languages" />
+      <img src="github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" alt="HasanLabib's Stats" />
     </td>
   </tr>
 </table>
