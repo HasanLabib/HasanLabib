@@ -18,6 +18,17 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/HasanLabib/HasanLabib/blob/main/icons/Linkedin.png">](https://www.linkedin.com/in/hasan-imtiaz-labib/)[<img height="75" src="https://github.com/HasanLabib/HasanLabib/blob/main/icons/Facebook.png">](https://www.facebook.com/hasan.labib.1/)[<img height="75" src="https://github.com/HasanLabib/HasanLabib/blob/main/icons/Twitter.png"> </p>](https://x.com/hasanlabib3)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hasan-imtiaz-labib/">
+    <img height="75" src="https://github.com/HasanLabib/HasanLabib/blob/main/icons/Linkedin.png" />
+  </a>
+  <a href="https://www.facebook.com/hasan.labib.1/">
+    <img height="75" src="https://github.com/HasanLabib/HasanLabib/blob/main/icons/Facebook.png" />
+  </a>
+  <a href="https://x.com/hasanlabib3">
+    <img height="75" src="https://github.com/HasanLabib/HasanLabib/blob/main/icons/Twitter.png" />
+  </a>
+</p>
+
 
 <br />
