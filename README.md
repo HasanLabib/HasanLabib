@@ -33,11 +33,25 @@
 
 <br />
 
-# My GitHub Statistics
+## 📊 GitHub Statistics (Working)
 
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasanLabib&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanLabib&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
+![GitHub Followers](https://img.shields.io/github/followers/HasanLabib?style=social)
+![GitHub Repos](https://img.shields.io/github/repos/HasanLabib?style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/HasanLabib?style=flat-square)
+![GitHub Contributions](https://img.shields.io/badge/-Contributions-blue)
+
+</div>
+
+---
+
+### ⭐ Contributions & Activity
+
+<div align="center">
+
+![GitHub Top Languages](https://img.shields.io/github/languages/top/HasanLabib?style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/HasanLabib/HasanLabib?style=for-the-badge)
+
+</div>
 
