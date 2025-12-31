@@ -33,4 +33,16 @@
 
 <br />
 
-![HasanLabib's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanLabib&show_icons=true&theme=dracula)
+# My GitHub Statistics
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="github-readme-stats.vercel.app" alt="HasanLabib's Stats" />
+    </td>
+    <td align="center">
+      <img src="github-readme-stats.vercel.app" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
