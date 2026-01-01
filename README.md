@@ -50,7 +50,7 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats-hasan-labibs-projects.vercel.app/api?username=HasanLabib)](https://github.com/anuraghazra/github-readme-stats)
+[![HasanLabib's GitHub stats](https://github-readme-stats-u5h7.vercel.app/api?username=HasanLabib&show_icons=true&theme=radical)]
 
 </div>
 
