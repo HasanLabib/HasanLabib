@@ -50,7 +50,13 @@
 
 <div align="center">
 
-[![HasanLabib's GitHub stats](https://github-readme-stats-u5h7.vercel.app/api?username=HasanLabib&show_icons=true&theme=radical)]
+# My GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-u5h7.vercel.app/api?username=HasanLabib&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-u5h7.vercel.app/api/top-langs/?username=HasanLabib&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
+
 
 </div>
 
