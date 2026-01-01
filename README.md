@@ -50,8 +50,7 @@
 
 <div align="center">
 
-![GitHub Top Languages](https://img.shields.io/github/languages/top/HasanLabib?style=for-the-badge)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/HasanLabib/HasanLabib?style=for-the-badge)
+[![Anurag's GitHub stats](https://github-readme-stats-hasan-labibs-projects.vercel.app/api?username=HasanLabib)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
