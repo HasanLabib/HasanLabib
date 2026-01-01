@@ -1,5 +1,38 @@
 <img src="https://github.com/HasanLabib/HasanLabib/blob/main/icons/Gemini_Generated_Image_t7t4jdt7t4jdt7t4.png"/> 
 
+## About Me
+|---------------------------|
+
+## 👋 Hi, I’m Hasan Labib
+
+I’m a **Front-End Developer** passionate about building sleek, responsive, and user-friendly web applications. I specialize in **React** and **modern JavaScript**, with a strong focus on clean, maintainable code and great user experience.
+
+### 💻 What I Do
+- Develop responsive and interactive web applications using **React**
+- Write clean, scalable, and maintainable code following best practices
+- Convert UI/UX designs into accessible, high-quality interfaces
+- Collaborate in team environments using modern version control workflows
+
+### 🎓 Background
+- B.Sc. in **Computer Science** from *Ahsanullah University*
+- Hands-on experience with the **MERN stack** through internships and professional training
+- Co-author of an **IEEE conference paper** on Deep Learning and Visual Question Answering
+
+### 💡 Strengths
+- Strong problem-solving and debugging skills
+- Proactive, adaptable, and eager to learn
+- Team-oriented with a disciplined work ethic
+
+### 🚀 Current Focus
+- Growing as a professional developer through real-world projects
+- Seeking **full-time Front-End or Junior Full-Stack roles** (remote or on-site)
+- Collaborating with teams to build meaningful, production-ready products
+
+### 📈 Long-Term Goals
+- Become a **Senior/Lead Developer**
+- Mentor junior developers and lead impactful projects
+- Contribute to **open-source** software
+
 ## 🛠️ Tech Stack & Tools
 <div align="center">
 
